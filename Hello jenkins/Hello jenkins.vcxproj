@@ -81,6 +81,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CuartaClase.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="SegundaClase.h" />
     <ClInclude Include="stdafx.h" />
@@ -91,6 +92,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AssemblyInfo.cpp" />
+    <ClCompile Include="CuartaClase.cpp" />
     <ClCompile Include="Hello jenkins.cpp" />
     <ClCompile Include="SegundaClase.cpp" />
     <ClCompile Include="stdafx.cpp">
