@@ -2,6 +2,7 @@
 #include "TerceraClase.h"
 
 //Comentarios en la clase tres
+//Otros comentarios
 TerceraClase::TerceraClase()
 {
 }
