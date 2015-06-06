@@ -6,6 +6,8 @@ CuartaClase::CuartaClase()
 {
 }
 
+//Finalito
+
 
 CuartaClase::~CuartaClase()
 {
