@@ -1,2 +1,0 @@
-C:\Bruno_UPC\Ciclo 2015-01\Evolución del Software\Jenkins\Hello World\Hello World\bin\x64\Release\Hello World.exe.config
-C:\Bruno_UPC\Ciclo 2015-01\Evolución del Software\Jenkins\Hello jenkins\Hello World\bin\x64\Release\Hello World.exe.config

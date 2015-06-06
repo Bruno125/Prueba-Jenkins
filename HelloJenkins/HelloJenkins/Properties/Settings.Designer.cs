@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Hello_World.Properties
+namespace HelloJenkins.Properties
 {
 
 

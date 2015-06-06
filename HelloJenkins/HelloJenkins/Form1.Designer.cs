@@ -1,4 +1,4 @@
-﻿namespace Hello_World
+﻿namespace HelloJenkins
 {
     partial class Form1
     {

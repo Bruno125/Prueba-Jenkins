@@ -8,15 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Hello_World
+namespace HelloJenkins
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
-            //
-            int a = 0;
         }
     }
 }
